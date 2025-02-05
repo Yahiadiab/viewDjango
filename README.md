@@ -1,0 +1,2 @@
+# viewDjango
+for training
